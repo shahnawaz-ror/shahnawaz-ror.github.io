@@ -17,9 +17,9 @@ In Ruby on Rails we usually develop back-end components, connect the application
 
 | Account-abilities | 
 | ------ | 
-| Managing entire gamut of tasks (programming) in web applications.
-Technical knowledge on Ruby, Ruby on rails, JavaScript, jQuery, Ajax, CSS, HTML, HAML, social media integrations.
-Familiar with CVS, Git, Heroku, deployment of web applications and database servers like MySQL and Postgresql.
-Ensuring compliance to all the scenarios in the project by adhering to TDD and BDD approaches as well as agile development process.
-Handling processes adhering to specs and generation of cucumber coverage report. | 
+| Managing entire gamut of tasks (programming) in web applications.|
+|Technical knowledge on Ruby, Ruby on rails, JavaScript, jQuery, Ajax, CSS, HTML, HAML, social media integrations.|
+|Familiar with CVS, Git, Heroku, deployment of web applications and database servers like MySQL and Postgresql.|
+|Ensuring compliance to all the scenarios in the project by adhering to TDD and BDD approaches as well as agile development process.|
+|Handling processes adhering to specs and generation of cucumber coverage report. | 
    
