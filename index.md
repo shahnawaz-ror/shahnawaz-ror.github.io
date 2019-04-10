@@ -1,8 +1,7 @@
-# Mohammad Shahnawaz(Ruby On Rails)
+## Mohammad Shahnawaz(Ruby On Rails)
 
 
 
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
 
 
 A Dedeicated Ruby on Rails developer responsible for writing server-side web application logic in Ruby, around the framework in Rails. 
